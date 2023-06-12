@@ -19,9 +19,9 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 
 ## Team
--  E/18/010, Name, [email](mailto:e18010@eng.pdn.ac.lk)
--  E/18/156, Name, [email](mailto:e18156@eng.pdn.ac.lk)
--  E/18/329, Name, [email](mailto:e18329@eng.pdn.ac.lk)
+-  E/18/010, Name, [e18010@eng.pdn.ac.lk](mailto:e18010@eng.pdn.ac.lk)
+-  E/18/156, Name, [e18156@eng.pdn.ac.lk](mailto:e18156@eng.pdn.ac.lk)
+-  E/18/329, Name, [e18329@eng.pdn.ac.lk](mailto:e18329@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
