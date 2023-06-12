@@ -4,7 +4,7 @@ permalink: index.html
 
 # Please update this with your repository name and title
 repository-name: eYY-XXX-project-template
-title:
+title: Handwritten_Essay_Marking_Software
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -19,9 +19,9 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/18/010, Name, [email](mailto:e18010@eng.pdn.ac.lk)
+-  E/18/156, Name, [email](mailto:e18156@eng.pdn.ac.lk)
+-  E/18/329, Name, [email](mailto:e18329@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
