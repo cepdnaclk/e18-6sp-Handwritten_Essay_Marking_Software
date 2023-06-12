@@ -12,3 +12,8 @@ Imagine, your students' words are transformed into digital, giving a consistent 
 Handwritten Essay Marking Software is a sophisticated tool designed to address the challenges of manual grading by providing a more consistent and objective evaluation of students' handwritten essays. Let's dive into our solution ...
 
 
+
+## Team: 
+- Abeywickrama A.K.D.A.S. e18010@eng.pdn.ac.lk
+- Jayathilake W.A.T.N. e18156@eng.pdn.ac.lk
+- Sewwandi D.W.S.N. e18329@eng.pdn.ac.lk
