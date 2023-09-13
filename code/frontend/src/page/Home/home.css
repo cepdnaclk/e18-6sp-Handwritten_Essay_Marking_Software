@@ -1,0 +1,36 @@
+/* Your CSS stylesheet */
+body {
+  /* margin: 0; 
+  padding: 0;  */
+  background-color: #f3f4f6;
+}
+
+.home-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  height: 100%;
+  background-color: #f3f4f6;
+}
+
+.home-title {
+  margin-top: 1.5rem;
+  text-align: center;
+  font-size: 1.875rem; /* Equivalent to 30px */
+  font-weight: bold;
+  letter-spacing: -0.025em;
+  color: #1a202c;
+}
+
+.home-background-wrap {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 50rem;
+}

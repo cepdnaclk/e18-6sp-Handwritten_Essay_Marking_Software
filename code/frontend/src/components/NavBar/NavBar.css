@@ -1,0 +1,47 @@
+.navbar {
+    background-color: #EFE7FA;
+    color: rgb(66, 83, 85);
+    padding: 10px;
+    display: flex;
+  }
+  
+  .navbar ul {
+    justify-content: flex-end;
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-items: right;
+  }
+  
+  .navbar li {
+    margin-right: 20px;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: rgb(72, 92, 104);
+    font-weight: bold;
+  }
+
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Pseudo-element for the underline effect */
+  .navbar a::before {
+    content: "";
+    position: absolute;
+    bottom: -2px; /* Adjust the distance of the underline */
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: white;
+    transform: scaleX(0); /* Initially, no underline */
+    transform-origin: center;
+    transition: transform 0.3s ease;
+  }
+  
+  .navbar a:hover::before {
+    transform: scaleX(1); /* Display underline on hover */
+  }
+  
