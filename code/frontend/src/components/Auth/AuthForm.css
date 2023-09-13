@@ -1,0 +1,50 @@
+/* Your CSS stylesheet */
+
+/* This applies to all screen sizes */
+.auth-background {
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 50rem;
+}
+
+.custom-card {
+  background-color: white;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 2rem;
+  border-radius: 0.5rem;
+}
+
+@media (min-width: 640px) {
+  .custom-card {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    border-radius: 1rem;
+  }
+}
+
+/* Define the custom class */
+.custom-lower {
+  display: flex;
+  justify-content: center;
+  font-size: 1rem; /* Equivalent to text-sm */
+  color: #787e8a; /* Equivalent to text-gray-500 */
+  padding-left: 0.5rem; /* Equivalent to px-2 */
+  padding-right: 0.5rem; /* Equivalent to px-2 */
+  gap: 0.5rem; /* Equivalent to gap-2 */
+  margin-top: 1.5rem; /* Equivalent to mt-6 */
+  padding-bottom: 0.5rem; /* Equivalent to pb-2 */
+}
+
+/* Define the custom class */
+.custom-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
