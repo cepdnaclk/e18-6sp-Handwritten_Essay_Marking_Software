@@ -1,17 +1,17 @@
 {
     "team": [
         {
-            "name": "Abeywickrama A.K.D.A.S.",
+            "name": "Avishka Abeywickrama",
             "email": "e18010@eng.pdn.ac.lk",
             "eNumber": "E/18/010"
         },
         {
-            "name": "Jayathilake W.A.T.N.",
+            "name": "Thakshila Jayathilake",
             "email": "e18156@eng.pdn.ac.lk",
             "eNumber": "E/18/156"
         },
         {
-            "name": "Sewwandi D.W.S.N.",
+            "name": "Nirasha Sewwandi",
             "email": "E18329@eng.pdn.ac.lk",
             "eNumber": "E/18/329"
         }
@@ -20,7 +20,7 @@
         {
             "name": "Mr. Sampath Deegalla",
             "email": "sampath@eng.pdn.ac.lkk"
-        },
+        }
         
     ],
     "tags": ["MachineLearning", "Web Development", "NLP", "OCR"]
