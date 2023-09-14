@@ -1,7 +1,7 @@
 import NavBar from "../../components/NavBar/NavBar";
 import Footer from "../../components/Footer/Footer";
 import { Stack, Typography } from "@mui/material";
-import stampCollection from "../../images/world-post-office-day-national-post-day-generative-ai (1) 1.png";
+import stampCollection from "../../images/essay.png";
 
 const About = () => {
   return (
@@ -27,12 +27,10 @@ const About = () => {
           spacing={2}
         >
           <Typography width={"50%"}>
-            Experience efficient and reliable mail services tailored to your
-            needs at our trusted post service . 
-            
-            Experience efficient and
-            reliable mail services tailored to your needs at our trusted post
-            service .Experience efficient and reliable mail services tailored.
+            <h3>Essay Marker</h3>
+            We provide a powerful Tool to grade handwritten essays by providing more consistent and objective grading.
+
+            By giving facility by Automates manual grading by using latest technologies.You can relie on us. We give you the best service. Feel free to join with our service !
           </Typography>
           <img width={400} src={stampCollection} alt='' />
         </Stack>
