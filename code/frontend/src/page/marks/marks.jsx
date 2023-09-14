@@ -1,25 +1,25 @@
 import React, { useState } from 'react';
-import Modal from './Modal'; // Create a separate Modal component
+import Modal from './Modal'; 
+import './Modal.css'; 
 
-function App() {
-  const [showModal, setShowModal] = useState(false); // State to control modal visibility
-  const [marks, setMarks] = useState(null); // State to store the marks
+const Marks = () => {
+  const [showModal, setShowModal] = useState(false); 
+  const [marks, setMarks] = useState(null); 
 
-  // Function to fetch and set marks (replace with your API call)
   const fetchMarks = async () => {
-    // Simulate fetching marks from an API
-    const response = await fetch('/api/marks');
-    const data = await response.json();
+    // const response = await fetch('/api/marks');
+    // const data = await response.json();
     // setMarks(data.marks);
     setMarks(78)
+    setShowModal(true)
   };
 
   return (
     <div>
-      <button onClick={fetchMarks}>Show Marks</button>
+      <button className="show-marks-button" onClick={fetchMarks}>Show Marks</button>
       {showModal && <Modal marks={marks} onClose={() => setShowModal(false)} />}
     </div>
   );
 }
 
-export default App;
+export default Marks;

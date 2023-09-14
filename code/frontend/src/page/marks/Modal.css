@@ -28,4 +28,12 @@
     border: none;
     cursor: pointer;
   }
+
+.show-marks-button {
+    background-color: #131485;
+    color: white;
+    padding: 10px 20px; 
+    border: none;
+    cursor: pointer; 
+  }
   
