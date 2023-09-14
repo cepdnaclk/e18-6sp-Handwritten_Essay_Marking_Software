@@ -5,25 +5,24 @@ import NavBar from "../../components/NavBar/NavBar";
 import { Typography } from "@mui/material";
 import FileUploader from "../../components/FileUploader/FileUploader";
 import { FileUpload } from "@mui/icons-material";
+import "./userHome.css"; 
 
 const UserHome = () => {
   const [activeSection, setActiveSection] = useState("postalCodeLookup");
+  const [marks, setMarks] = useState(0);
 
   const goToSection = (section) => {
     setActiveSection(section);
   };
 
-
   return (
     <div>
       <NavBar />
-      <div>
-        <div style={{ marginTop: "100px", marginLeft:"20px" }}>
+      <div className="container">
         <Typography><FileUpload/> Upload your file</Typography>
         <FileUploader />
-        </div>
+        {marks && <div>Marks: {marks}</div>}
       </div>
-
       {/* <Footer /> */}
     </div>
   );
