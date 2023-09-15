@@ -49,7 +49,7 @@ OCR is used to scan the handwritten essays and convert them into digital text. N
 
 ### Machine Learning Model Creation
 
-To convert the essays into digital texts, Google Cloud Vision which is the tool for OCR is used. Google Cloud Natural Language API is used to extract features from our essay. Those features are used to train our ml model and an API is used to store our data.
+To convert the essays into digital texts, Google Cloud Vision which is the tool for OCR is used. Google Cloud Natural Language API is used to extract features from our essay. Those features are used to train our ML model and an API is used to store our data.
 
 <img src="images/1.png" alt="Alt Text" width="500">
 
@@ -74,23 +74,24 @@ The following image shows the data flow of our system. When the marker uploads a
 
 - Data Collection:
 
-Collected a dataset of handwritten essays. This dataset came from students or sources that have handwritten essays available.
+  Collected a dataset of handwritten essays. This dataset came from students or sources that have handwritten essays available.
 
 - Data Preprocessing and Cleaning:
 
-Converting handwritten essays into digital format using Optical Character Recognition (OCR) technology. OCR helps to extract text from handwritten documents.
+  Converting handwritten essays into digital format using Optical Character Recognition (OCR) technology. OCR helps to extract text from handwritten documents.
 
 - Text Analysis (NLP):
 
-After OCR, we have digital text from handwritten essays. Apply Natural Language Processing (NLP) techniques to process and analyze this text. This involved tasks such as tokenization, stemming, and sentiment analysis. Those extracted features will mostly affect essay marking.
+  After OCR, we have digital text from handwritten essays. Apply Natural Language Processing (NLP) techniques to process and analyze this text. This involved
+  tasks such as tokenization, stemming, and sentiment analysis. Those extracted features will mostly affect essay marking.
 
 - Machine Learning Model:
 
-Neural network-based model for essay grading. The model takes the preprocessed text data and other features as input and provides essay scores as output.
+  Neural network-based model for essay grading. The model takes the preprocessed text data and other features as input and provides essay scores as output.
 
 - Deployment:
 
-Deploy essay grading software as a user-friendly web application. Users can upload handwritten essays, and the software will provide automated marks or grades, making it accessible to educators and students.
+  Deploy essay grading software as a user-friendly web application. Users can upload handwritten essays, and the software will provide automated marks or grades,   making it accessible to educators and students.
 
 ## Technology Stack
 
