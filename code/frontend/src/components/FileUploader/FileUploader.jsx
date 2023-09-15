@@ -52,7 +52,7 @@ export default class FileUploader extends Component {
         return (
             <div>
                 <Button onClick={this.handleOpen.bind(this)}>
-                  Add File
+                  <b>Add File</b>
                 </Button>
                 <DropzoneDialog
                     open={this.state.open}

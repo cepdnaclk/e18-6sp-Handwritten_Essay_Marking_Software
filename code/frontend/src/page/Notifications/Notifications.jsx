@@ -15,7 +15,7 @@ function UserNotifications() {
           color={"#131485"}
           borderRadius={2}
         >
-          Received Notifications
+          Essays summary
         </Typography>
         <NotificationTable />
       </Stack>

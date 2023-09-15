@@ -6,6 +6,7 @@ import { Typography } from "@mui/material";
 import FileUploader from "../../components/FileUploader/FileUploader";
 import { FileUpload } from "@mui/icons-material";
 import "./userHome.css"; 
+import Marks from "../marks/marks";
 
 const UserHome = () => {
   const [activeSection, setActiveSection] = useState("postalCodeLookup");
@@ -18,12 +19,19 @@ const UserHome = () => {
   return (
     <div>
       <NavBar />
+      
       <div className="container">
-        <Typography><FileUpload/> Upload your file</Typography>
+        <Typography>
+        <div className="modal">
+          <FileUpload/> Upload your file
+        </div>
+        </Typography>
         <FileUploader />
-        {marks && <div>Marks: {marks}</div>}
+        <br></br>
+        {/* {marks && <div>Marks: {marks}</div>} */}
+        <Marks/>
       </div>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 };
