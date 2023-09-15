@@ -74,6 +74,7 @@ In today's digitally-driven educational landscape, the demand for efficient and 
 
 ## Data Set
 
+The dataset that has been used to train the ML model is [The Hewlett Foundation: Automated Essay Scoring Dataset](https://www.kaggle.com/c/asap-aes/data) by ASAP.
 
 ## Timeline
 
