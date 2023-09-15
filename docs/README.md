@@ -43,12 +43,12 @@ leading to inconsistencies in evaluation. Moreover, as the class size increases,
 
 ## Solution Architecture
 
-<img src="images/1.png" alt="Alt Text" width="100">
-<img src="images/2.png" alt="Alt Text" width="100">
+<img src="images/1.png" alt="Alt Text" width="300">
+<img src="images/2.png" alt="Alt Text" width="300">
 
 ## Use Case Diagram
 
-<img src="images/3.png" alt="Alt Text" width="100">
+<img src="images/3.png" alt="Alt Text" width="300">
 
 
 ## Features and Functionalities
@@ -56,7 +56,9 @@ leading to inconsistencies in evaluation. Moreover, as the class size increases,
 
 ## Technology Stack
 
-<img src="images/4.png" alt="Alt Text" width="100">
+In today's digitally-driven educational landscape, the demand for efficient and accurate methods of assessing student performance is paramount. Handwritten essay marking software stands as a testament to the convergence of cutting-edge technologies, enabling educators to streamline the grading process and provide constructive feedback to students. This essay delves into the technological foundations of such software, highlighting key components including React, Node.js, Python, TensorFlow, MongoDB Atlas, and Google Cloud Vision.
+
+<img src="images/4.png" alt="Alt Text" width="300">
 
 ## Data Set
 
