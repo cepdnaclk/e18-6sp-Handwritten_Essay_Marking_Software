@@ -14,12 +14,12 @@ title: Handwritten_Essay_Marking_Software
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Problem](#problem)
-3. [Solution Arhitecture](#solution_architecture)
+3. [Solution Architecture](#solution_architecture)
 4. [Use Case Diagram](#use_case_diagram)
 5. [Features and Functionalities](#features)
 6. [Technology Stack](#technology_stack)
 7. [Dataset](#dataset)
-8. [Time Line](#timeline)
+8. [Timeline](#timeline)
 9. [Links](#links)
 
    
@@ -31,7 +31,24 @@ title: Handwritten_Essay_Marking_Software
 
 
 
+## Solution Architecture
 
+
+
+## Use Case Diagram
+
+
+
+## Features and Functionalities
+
+
+## Technology Stack
+
+
+## Data Set
+
+
+## Timeline
 
 
 
