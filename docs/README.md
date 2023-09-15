@@ -80,7 +80,7 @@ In today's digitally-driven educational landscape, the demand for efficient and 
 <img src="images/4.png" alt="Alt Text" width="500">
 
 ## Product Owner
--  Mr. Sampath Deegalla, [e18010@eng.pdn.ac.lk](mailto:sampath@eng.pdn.ac.lk)
+-  Mr. Sampath Deegalla, [sampath@eng.pdn.ac.lk](mailto:sampath@eng.pdn.ac.lk)
 
 ## Team
 -  E/18/010, Abeywickrama A.K.D.A.S., [e18010@eng.pdn.ac.lk](mailto:e18010@eng.pdn.ac.lk)
