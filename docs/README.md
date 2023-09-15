@@ -21,7 +21,9 @@ title: Handwritten_Essay_Marking_Software
 7. [Technology Stack](#technology_stack)
 8. [Dataset](#dataset)
 9. [Timeline](#timeline)
-10. [Links](#links)
+10. [Product Owner](#product_owner)
+11. [Team](#team)
+12. [Links](#links)
 
    
 ## Introduction
@@ -45,12 +47,20 @@ OCR is used to scan the handwritten essays and convert them into digital text. N
 
 ## Solution Architecture
 
-<img src="images/1.png" alt="Alt Text" width="400">
-<img src="images/2.png" alt="Alt Text" width="400">
+### Machine Learning Model Creation
+
+
+<img src="images/1.png" alt="Alt Text" width="500">
+
+### Data Flow
+
+The following image shows the data flow of our system. When the marker uploads an essay it will converted to digital text. Then we give this digital text to our trained ML model and it will give the marks for the essay out of 100. We store those data and the users' data in our database.
+
+<img src="images/2.png" alt="Alt Text" width="500">
 
 ## Use Case Diagram
 
-<img src="images/3.png" alt="Alt Text" width="400">
+<img src="images/3.png" alt="Alt Text" width="500">
 
 
 ## Features and Functionalities
@@ -60,14 +70,17 @@ OCR is used to scan the handwritten essays and convert them into digital text. N
 
 In today's digitally-driven educational landscape, the demand for efficient and accurate methods of assessing student performance is paramount. Handwritten essay marking software stands as a testament to the convergence of cutting-edge technologies, enabling educators to streamline the grading process and provide constructive feedback to students. This essay delves into the technological foundations of such software, highlighting key components including React, Node.js, Python, TensorFlow, MongoDB Atlas, and Google Cloud Vision.
 
-<img src="images/4.png" alt="Alt Text" width="400">
+<img src="images/4.png" alt="Alt Text" width="500">
 
 ## Data Set
 
 
 ## Timeline
 
+<img src="images/4.png" alt="Alt Text" width="500">
 
+## Product Owner
+-  Mr. Sampath Deegalla, [e18010@eng.pdn.ac.lk](mailto:sampath@eng.pdn.ac.lk)
 
 ## Team
 -  E/18/010, Abeywickrama A.K.D.A.S., [e18010@eng.pdn.ac.lk](mailto:e18010@eng.pdn.ac.lk)
