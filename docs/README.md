@@ -105,7 +105,7 @@ The dataset that has been used to train the ML model is [The Hewlett Foundation:
 
 ## Timeline
 
-<img src="images/4.png" alt="Alt Text" width="500">
+<img src="images/5.png" alt="Alt Text" width="500">
 
 ## Product Owner
 -  Mr. Sampath Deegalla, [sampath@eng.pdn.ac.lk](mailto:sampath@eng.pdn.ac.lk)
