@@ -39,16 +39,18 @@ leading to inconsistencies in evaluation. Moreover, as the class size increases,
 
 ## Solution
 
+In the dynamic landscape of education, the demand for efficient and accurate assessment methods has never been greater. Handwritten essay marking software emerges as a transformative solution, leveraging cutting-edge technology to streamline the grading process and provide insightful feedback to both educators and students. This software represents a paradigm shift in assessment methodology, combining advanced algorithms with intuitive user interfaces to revolutionize the way essays are evaluated. This essay explores the inception, functionality, and potential impact of handwritten essay marking software in modern education.
 
+OCR is used to scan the handwritten essays and convert them into digital text. Natural Language Processing is used to identify key features of the essay such as relevance, duplication, grammar, syntax, and vocabulary. A machine learning model will be trained using our dataset when the marker gives an essay it will output the corresponding mark for that essay. 
 
 ## Solution Architecture
 
-<img src="images/1.png" alt="Alt Text" width="300">
-<img src="images/2.png" alt="Alt Text" width="300">
+<img src="images/1.png" alt="Alt Text" width="400">
+<img src="images/2.png" alt="Alt Text" width="400">
 
 ## Use Case Diagram
 
-<img src="images/3.png" alt="Alt Text" width="300">
+<img src="images/3.png" alt="Alt Text" width="400">
 
 
 ## Features and Functionalities
@@ -58,7 +60,7 @@ leading to inconsistencies in evaluation. Moreover, as the class size increases,
 
 In today's digitally-driven educational landscape, the demand for efficient and accurate methods of assessing student performance is paramount. Handwritten essay marking software stands as a testament to the convergence of cutting-edge technologies, enabling educators to streamline the grading process and provide constructive feedback to students. This essay delves into the technological foundations of such software, highlighting key components including React, Node.js, Python, TensorFlow, MongoDB Atlas, and Google Cloud Vision.
 
-<img src="images/4.png" alt="Alt Text" width="300">
+<img src="images/4.png" alt="Alt Text" width="400">
 
 ## Data Set
 
