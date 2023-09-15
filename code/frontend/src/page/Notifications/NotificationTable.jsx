@@ -114,26 +114,26 @@ function NotificationTable() {
     () => [
       {
         accessorKey: "userName",
-        header: "Username",
+        header: "Student Name",
         size: 100,
       },
       {
         accessorKey: "senderAddress", //access nested data with dot notation
-        header: "Sender Address",
+        header: "Student Email Address",
         size: 100,
       },
       {
         accessorKey: "updatedAt", //normal accessorKey
-        header: "Received Date",
+        header: "Essay No",
         size: 100,
       },
       {
         accessorKey: "message", //normal accessorKey
-        header: "Notification Message",
+        header: "Feedback",
         size: 100,
       },
       {
-        header: "Is there a letter?",
+        header: "Essay Marks",
         size: 50,
         Cell: ({ cell, row }) => {
           return (

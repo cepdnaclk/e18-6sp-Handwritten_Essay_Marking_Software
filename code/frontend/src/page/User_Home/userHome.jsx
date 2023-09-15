@@ -21,15 +21,17 @@ const UserHome = () => {
       <NavBar />
       
       <div className="container">
-        <Typography>
-        <div className="modal">
-          <FileUpload/> Upload your file
+        <div className="modal-content1">
+          <Typography>
+            <div className="modal">
+              <FileUpload/> Upload your file
+            </div>
+          </Typography>
+          <FileUploader />
+          <br></br>
+          {/* {marks && <div>Marks: {marks}</div>} */}
+          <Marks/>
         </div>
-        </Typography>
-        <FileUploader />
-        <br></br>
-        {/* {marks && <div>Marks: {marks}</div>} */}
-        <Marks/>
       </div>
       <Footer />
     </div>
