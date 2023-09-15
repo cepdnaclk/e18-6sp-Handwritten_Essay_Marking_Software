@@ -14,22 +14,30 @@ title: Handwritten_Essay_Marking_Software
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Problem](#problem)
-3. [Solution Architecture](#solution_architecture)
-4. [Use Case Diagram](#use_case_diagram)
-5. [Features and Functionalities](#features)
-6. [Technology Stack](#technology_stack)
-7. [Dataset](#dataset)
-8. [Timeline](#timeline)
-9. [Links](#links)
+3. [Solution](#solution)
+4. [Solution Architecture](#solution_architecture)
+5. [Use Case Diagram](#use_case_diagram)
+6. [Features and Functionalities](#features)
+7. [Technology Stack](#technology_stack)
+8. [Dataset](#dataset)
+9. [Timeline](#timeline)
+10. [Links](#links)
 
    
 ## Introduction
 
- 
+This innovative tool bridges the gap between traditional pen-and-paper assessments and digital grading systems, offering a seamless and efficient solution for 
+evaluating handwritten assignments. Handwritten Essay Marking Software employs cutting-edge optical character recognition (OCR) and machine learning algorithms to
+convert handwritten text into digital format, enabling educators to assess and provide feedback on essays electronically. This revolutionary approach not only 
+streamlines the grading process but also enhances accuracy, consistency, and accessibility in evaluation.
 
 ## Problem
 
+Traditional manual marking is a time-consuming and labor-intensive process, often leading to inefficiencies in grading. Educators spend significant amounts of time
+reviewing and evaluating each student's essay, which can be impractical and burdensome. Also, grading is often influenced by the mood or biases of the marker, 
+leading to inconsistencies in evaluation. Moreover, as the class size increases, the task becomes more challenging and time-consuming for educators.
 
+## Solution
 
 ## Solution Architecture
 
