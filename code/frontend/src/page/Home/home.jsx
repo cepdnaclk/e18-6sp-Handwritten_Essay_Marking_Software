@@ -6,7 +6,7 @@ import imageTwo from "../../images/Isolation_Mode(1).png";
 import imageThree from "../../images/Isolation_Mode.png";
 import imageFour from "../../images/Isolation_Mode(2).png";
 import { Stack,Typography, Button, TextField} from "@mui/material";
-import stampCollection from "../../images/world-post-office-day-national-post-day-generative-ai (1) 1.png";
+import whoWe from "../../images/probSol.jpg";
 import frame from "../../images/Frame.png";
 import mailSent from "../../images/mcs.png";
 import "./home.css";
@@ -87,7 +87,7 @@ export default function Home() {
           spacing={2}
         >
           <Stack direction={"column"} spacing={2}>
-          <Typography marginLeft={10} variant={"h6"} width={"50%"}>
+          <Typography marginLeft={10} variant={"h6"} width={"70%"}>
             Traditional manual marking is a time-consuming and labor-intensive process, 
             often leading to inefficiencies in grading. Educators spend significant amounts of time 
             reviewing and evaluating each student's essay, which can be impractical and burdensome. 
@@ -97,7 +97,7 @@ export default function Home() {
 
           </Typography>
 
-            <Typography marginLeft={4} variant={"h6"} width={"50%"}>
+            <Typography marginLeft={4} variant={"h6"} width={"80%"}>
             Imagine, your students' words are transformed into digital, 
             giving a consistent and objective grading!
             Handwritten Essay Marking Software is a sophisticated tool designed to address 
@@ -106,7 +106,7 @@ export default function Home() {
             
           </Typography>
           </Stack>
-          <img width={"100%"} src={stampCollection} alt='' />
+          <img width={"100%"} src={whoWe} alt='' />
         </Stack>
       </Stack>
       <Stack direction={"column"}>
@@ -130,32 +130,32 @@ export default function Home() {
         >
           <Stack direction={"column"} spacing={2}>
             <ServiceCard
-              title={"Feature 1 Title"}
+              title={"Marking based on valuable approach"}
               description={
-                "To change this go to the ./src/page/Home/home.jsx file and edit the ServiceCard component line 135. and replace with your own images in images folder accordingly"
+                "Give efficient, consistent, fairness marking based on more identical features"
               }
               imageUrl={imageOne}
             />
             <ServiceCard
-              title={"Feature 2 Title"}
+              title={"Consistent Marking"}
               description={
-                "To change this go to the ./src/page/Home/home.jsx file and edit the ServiceCard component line 142"
+                "Provide high accurate marking without bias."
               }
-              imageUrl={imageTwo}
+              imageUrl={imageThree}
             />
           </Stack>
           <Stack direction={"column"} spacing={2}>
             <ServiceCard
-              title={"Feature 3 Title"}
+              title={"Handle large number of long essays"}
               description={
-                "To change this go to the ./src/page/Home/home.jsx file and edit the ServiceCard component line 151"
+                "When marker get bunch of essays with number of pages, it takes much time to do manually, So our platform gives best solution for that."
               }
-              imageUrl={imageThree}
+              imageUrl={imageTwo}
             />
             <ServiceCard
-              title={"Feature 4 Title"}
+              title={"Feedback for students"}
               description={
-                "To change this go to the ./src/page/Home/home.jsx file and edit the ServiceCard component line 158"
+                "Providing detailed feedback to students"
               }
               imageUrl={imageFour}
             />
