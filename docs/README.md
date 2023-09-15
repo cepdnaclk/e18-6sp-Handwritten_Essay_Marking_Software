@@ -39,12 +39,15 @@ leading to inconsistencies in evaluation. Moreover, as the class size increases,
 
 ## Solution
 
+
+
 ## Solution Architecture
 
 
 
 ## Use Case Diagram
 
+<img src="images/sample.png" alt="Alt Text">
 
 
 ## Features and Functionalities
