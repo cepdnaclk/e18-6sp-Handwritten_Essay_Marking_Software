@@ -9,13 +9,23 @@ title: Handwritten_Essay_Marking_Software
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Handwritten_Essay_Marking_Software
-
+# Handwritten Essay Marking Software
 ---
 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Problem](#problem)
+3. [Solution Arhitecture](#solution_architecture)
+4. [Links](#links)
 
-![Sample Image](./images/sample.png)
+   
+## Introduction
+
+ description of the real-world problem and solution, impact
+
+## Other Sub Topics
+
+.....
 
 
 ## Team
@@ -23,20 +33,9 @@ This is a sample image, to show how to add images to your page. To learn more op
 -  E/18/156, Jayathilake W.A.T.N., [e18156@eng.pdn.ac.lk](mailto:e18156@eng.pdn.ac.lk)
 -  E/18/329, Sewwandi D.W.S.N., [e18329@eng.pdn.ac.lk](mailto:e18329@eng.pdn.ac.lk)
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Other Sub Topics](#other-sub-topics)
-3. [Links](#links)
-
 ---
 
-## Introduction
 
- description of the real world problem and solution, impact
-
-## Other Sub Topics
-
-.....
 
 ## Links
 
