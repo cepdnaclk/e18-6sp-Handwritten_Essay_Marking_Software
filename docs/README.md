@@ -43,12 +43,12 @@ leading to inconsistencies in evaluation. Moreover, as the class size increases,
 
 ## Solution Architecture
 
-<img src="images/1.png" alt="Alt Text">
-<img src="images/2.png" alt="Alt Text">
+<img src="images/1.png" alt="Alt Text" width="100">
+<img src="images/2.png" alt="Alt Text" width="100">
 
 ## Use Case Diagram
 
-<img src="images/3.png" alt="Alt Text">
+<img src="images/3.png" alt="Alt Text" width="100">
 
 
 ## Features and Functionalities
@@ -56,7 +56,7 @@ leading to inconsistencies in evaluation. Moreover, as the class size increases,
 
 ## Technology Stack
 
-<img src="images/4.png" alt="Alt Text">
+<img src="images/4.png" alt="Alt Text" width="100">
 
 ## Data Set
 
